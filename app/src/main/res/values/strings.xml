@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">my!</string>
+    <string name="log_in">log in</string>
+
+    <string name="login">login</string>
+    <string name="d">D</string>
+    <string name="l">L</string>
+    <string name="eng">ENG</string>
+    <string name="q">РУС</string>
+    <string name="password">Password</string>
+</resources>
